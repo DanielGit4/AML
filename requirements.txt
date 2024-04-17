@@ -70,7 +70,7 @@ jsonschema==4.6.2
 jupyter-client==6.1.12
 jupyter-core==4.7.1
 kaggle==1.5.12
-keras==2.9.0
+keras==2.13.1rc0
 Keras-Preprocessing==1.1.2
 keybert==0.5.1
 kiwisolver==1.4.3
