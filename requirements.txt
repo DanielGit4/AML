@@ -141,7 +141,7 @@ responses==0.18.0
 rich==12.4.4
 rsa==4.8
 sacrebleu==2.1.0
-scikit-learn==1.1.1
+scikit-learn==1.5.0
 scikit-learn-intelex==2021.6.3
 scipy==1.8.1
 seaborn==0.11.2
@@ -181,7 +181,7 @@ tokenizers==0.12.1
 toml==0.10.2
 torch==1.12.0
 torchvision==0.13.0
-tornado==6.1
+tornado==6.4.1
 tqdm==4.64.0
 traitlets==5.3.0
 transformers==4.20.1
