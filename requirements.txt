@@ -10,7 +10,7 @@ autopage==0.5.1
 backcall==0.2.0
 backports.functools-lru-cache==1.6.4
 cachetools==5.2.0
-certifi==2022.6.15
+certifi==2024.7.4
 charset-normalizer==2.1.0
 click==8.1.3
 cliff==3.10.1
