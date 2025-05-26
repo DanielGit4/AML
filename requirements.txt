@@ -184,7 +184,7 @@ torchvision==0.13.0
 tornado==6.1
 tqdm==4.64.0
 traitlets==5.3.0
-transformers==4.20.1
+transformers==4.50.0
 typeguard==2.13.3
 typing_extensions==4.3.0
 unicodedata2==14.0.0
