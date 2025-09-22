@@ -70,7 +70,7 @@ jsonschema==4.6.2
 jupyter-client==6.1.12
 jupyter-core==4.7.1
 kaggle==1.5.12
-keras==2.9.0
+keras==3.11.3
 Keras-Preprocessing==1.1.2
 keybert==0.5.1
 kiwisolver==1.4.3
@@ -184,7 +184,7 @@ torchvision==0.13.0
 tornado==6.1
 tqdm==4.64.0
 traitlets==5.3.0
-transformers==4.20.1
+transformers==4.53.0
 typeguard==2.13.3
 typing_extensions==4.3.0
 unicodedata2==14.0.0
